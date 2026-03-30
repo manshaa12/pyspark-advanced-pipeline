@@ -1,7 +1,7 @@
 # Advanced PySpark ETL Pipeline 
 
 ## Overview
-This project simulates a large-scale ETL pipeline using PySpark, processing over 1 million records.
+This project simulates a large-scale ETL pipeline using PySpark, processing small records.
 
 ## Features
 - Synthetic dataset generation 
